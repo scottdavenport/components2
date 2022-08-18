@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { faker } from '@faker-js/faker';
+import './style/App.css';
 import CommentDetail from './CommentDetail';
 import ApprovalCard from './ApprovalCard';
 
